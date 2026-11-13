@@ -14,3 +14,5 @@ push_to_github.py
 run_tests.bat
 docs/
 AGENTS.md
+*.py
+*.pptx
