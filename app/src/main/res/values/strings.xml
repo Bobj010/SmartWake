@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmartWake</string>
+    <string name="alarm_channel_name">Будильник SmartWake</string>
+    <string name="alarm_channel_desc">Гарантированные звуковые сигналы и уведомления будильника</string>
+    <string name="default_alarm_label">Подъем</string>
+</resources>

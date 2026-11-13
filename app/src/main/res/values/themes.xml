@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базовая тема приложения -->
+    <style name="Theme.SmartWake" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#090A0F</item>
+        <item name="android:navigationBarColor">#090A0F</item>
+        <item name="android:windowBackground">#090A0F</item>
+    </style>
+
+    <!-- Полноэкранная тема для экрана тревоги поверх блокировки -->
+    <style name="Theme.SmartWake.FullScreen" parent="Theme.SmartWake">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>
